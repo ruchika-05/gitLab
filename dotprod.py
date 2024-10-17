@@ -4,7 +4,7 @@ def dot_product(x, y):
         dp += (x[i]*y[i])
     return dp
 
-s1 = [1,2,3,4,5]
-s2 = [2,1,1,1,1]
+s1 = [1,2,3,4,4]
+s2 = [2,1,3,1,1]
 
 dot_product(s1, s2) 
