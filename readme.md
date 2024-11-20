@@ -5,14 +5,18 @@
 
 
 ![dot product showing image](https://betterexplained.com/wp-content/uploads/2012/02/dot_product_components.png)
+
 You can visit [dot product](https://en.wikipedia.org/wiki/Dot_product) for more information about this.
+
 ## **Mathematical Expression**
 If **A** and **B** are given as:
 
 **A = [a₁, a₂, ..., aₙ]**
 
 **B = [b₁, b₂, ..., bₙ]**
+
 The dot-product is calculated as:
+
 $\mathbf{A} \cdot \mathbf{B} = \sum_{i=1}^{n} a_i \cdot b_i$
 
 ## **Code Snippet**
@@ -49,7 +53,6 @@ dot_product(s1, s2)
 1. dot product gives scalor output
 2. cross product gives vector output
 
-
 ## Task list
 
 - [x] dot product
@@ -71,6 +74,8 @@ A footnote can also have multiple lines[^2].
 > [!IMPORTANT]
 > Key information users need to know to achieve their goal.
 
+> [!WARNING]
+> Need immediate user attention.
 ## Tables 
 
 |Version|Approach|Complexity|Memory Usage|Performance|
