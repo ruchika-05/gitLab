@@ -1,7 +1,7 @@
 # **Vector Dot-Product Implementation**
 
 ## **Introduction**
->In this repository we have the implementation of the **vector dot-product** operation in C++. 
+>In this repository we have the implementation of the **vector dot-product** operation in python. 
 
 
 ![dot product showing image](https://betterexplained.com/wp-content/uploads/2012/02/dot_product_components.png)
