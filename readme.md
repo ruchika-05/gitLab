@@ -37,7 +37,7 @@ dot_product(s1, s2)
 ```
 ## Styling
 
-- **Bold** text: `**Bold**` -> **Bold**  
+- **Bold** text: `**Bold**` -> **Boldtext**  
 - *Italicized* text: `*Italicized*` -> *Italicized*  
 - ~~Strikethrough~~: `~~Strikethrough~~` -> ~~Strikethrough~~  
 - **_Bold and Italicized_**: `**_Bold and Italicized_**` -> **_Bold and Italicized_**
